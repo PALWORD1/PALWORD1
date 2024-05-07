@@ -1,4 +1,5 @@
-Olá meu nome é kauã felipe 
-     e eu I always come back
-
-
+OLÁ MEU NOME É KAUÃ FELIPE
+- E I always come back
+- Estou estudando Alura
+- Estou aprendendo linguagem JavaScript
+  
